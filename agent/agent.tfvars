@@ -1,0 +1,6 @@
+vm_name="KameshbirdAdoAgentVm"
+log_analytics_workspace_name="KameshbirdAksWorkspace"
+log_analytics_resource_group_name="KameshbirdRG"
+virtual_network_resource_group_name="KameshbirdRG"
+virtual_network_name="KameshbirdAksVNet"
+subnet_name="VmSubnet"
